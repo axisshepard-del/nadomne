@@ -1,0 +1,4 @@
+pyyaml
+cloudscraper
+beautifulsoup4
+requests

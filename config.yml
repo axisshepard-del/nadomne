@@ -1,0 +1,20 @@
+sites:
+  - name: "Юридическая реабилитация"
+    url: "https://forum.gta5rp.com/forums/zajavlenija-na-annulirovanie-sudimostei.1930/"
+    thread_link_selector: ".structItem-title a[data-tp-primary='on']"
+
+discord_webhook: "https://discord.com/api/webhooks/1503657275854946405/hDwY6Qcg5Vp014O9go_AftTk8L3uHfSElmXOzqkJEL0k4c7PoZ6s96qR6_masMj5KCVk"
+
+poll_interval: 180
+
+role_ids:
+  - "1468298087549108296"
+
+alert_existing_on_start: false
+
+filter_keywords:
+  - "юридическую реабилитацию"
+  - "юридическая реабилитация"
+  - "реабилитацию"
+
+user_agent: "Mozilla/5.0 (compatible; ForumMonitor/1.0)"
